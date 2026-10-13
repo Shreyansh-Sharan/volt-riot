@@ -2288,3 +2288,7 @@ p {
 .airship-stops .btn .muted {
   margin-left: 6px;
 }
+
+.ck-menu-copy .page-lead {
+  color: rgba(248, 250, 252, 0.88);
+}
