@@ -2,7 +2,7 @@
 
 A neon street racer with weapons. Twelve colour-coded power-ups, a three-slot bay, ten segments of health, drift handling, seven AI rivals, four circuits from a storm-drain river to a seaside pier, a Combat Points series and a Dust Bowl deathmatch arena. Win fans, earn Lights.
 
-Built with Three.js · Custom 3D cars & props. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Three.js · Custom 3D cars & props. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
